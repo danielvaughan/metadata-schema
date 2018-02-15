@@ -1,5 +1,5 @@
-TEST 9
-[![Build Status](https://travis-ci.org/HumanCellAtlas/metadata-schema.svg)](https://travis-ci.org/HumanCellAtlas/metadata-schema)
+TEST 10
+[![Buld Status](https://travis-ci.org/HumanCellAtlas/metadata-schema.svg)](https://travis-ci.org/HumanCellAtlas/metadata-schema)
 
 
 # The Human Cell Atlas Metadata Schema
