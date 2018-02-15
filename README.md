@@ -1,4 +1,4 @@
-TEST 5
+TEST 6
 [![Build Status](https://travis-ci.org/HumanCellAtlas/metadata-schema.svg)](https://travis-ci.org/HumanCellAtlas/metadata-schema)
 
 
